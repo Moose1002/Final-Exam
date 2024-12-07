@@ -1,0 +1,1 @@
+var gamefiles = ['Final Exam.ags', 'acsetup.cfg'];

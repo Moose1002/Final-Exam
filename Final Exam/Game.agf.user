@@ -19,7 +19,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName xml:space="preserve">DataFile=Final Exam,Windows=Final Exam,</LastBuildGameFileName>
+    <LastBuildGameFileName xml:space="preserve">DataFile=Final Exam,Windows=Final Exam,_Debug=Final Exam,Web=Final Exam,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
